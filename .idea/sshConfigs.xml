@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="connect.yza1.seetacloud.com" id="f6b15eb1-b722-43df-8daa-e58bef9cf1f1" port="51318" customName="root@connect.yza1.seetacloud.com:51318" nameFormat="CUSTOM" username="root" useOpenSSHConfig="false">
+        <option name="customName" value="root@connect.yza1.seetacloud.com:51318" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

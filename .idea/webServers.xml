@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="51f6c82a-deab-4267-9617-945bc02e2727" name="root@connect.yza1.seetacloud.com:51318" url="http:///">
+        <fileTransfer accessType="SFTP" host="connect.yza1.seetacloud.com" port="51318" sshConfigId="d1c3ae25-a557-49f7-9be9-3d80c8960f6c" sshConfig="root@connect.yza1.seetacloud.com:51318 password" />
+      </webServer>
+    </option>
+  </component>
+</project>
